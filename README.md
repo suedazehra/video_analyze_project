@@ -1,4 +1,4 @@
-# 🎬 Geliştirilmiş Video Analiz Sistemi
+# 🎬 Video Analiz Sistemi
 
 ## 📋 Proje Özeti
 
