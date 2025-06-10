@@ -1,0 +1,24 @@
+YÖNETİCİ ÖZETİ - VIDEO ANALİZ RAPORU
+==================================================
+
+📊 VIDEO İSTATİSTİKLERİ:
+• Tahmini Süre: 7.5 dakika
+• Toplam Kelime: 1,131
+• Video Kategorisi: orta
+
+🎯 ANA BULGULAR:
+• Toplam 6 anlamlı segment tespit edildi
+• En yaygın konu kategorileri: health konusu, social konusu
+• Duygusal ton dağılımı: {'nötr': 2, 'pozitif': 4}
+
+📈 İÇERİK KALİTESİ:
+• Karmaşıklık Seviyesi: orta
+• İçerik Yoğunluğu: 5.85/10
+
+🔍 ÖNERİLER:
+• Segment uzunlukları dengesiz, içerik yapısı gözden geçirilmeli
+
+📄 DETAYLAR:
+• Tam analiz sonuçları: output/llm_insights/ klasöründe
+• Yapılandırılmış veriler: output/structured_data/ klasöründe
+• Rapor oluşturulma zamanı: 2025-06-08 12:12:09

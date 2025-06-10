@@ -1,0 +1,81 @@
+LLM DESTEKLİ SEGMENT ANALİZİ
+==================================================
+
+SEGMENT 1
+--------------------
+Ana Konu: health konusu
+Segment Tipi: bilgi paylaşımı
+Duygusal Ton: nötr (0 pozitif, 0 negatif kelime)
+
+Anahtar Mesajlar:
+• Bu bölümde health hakkında bilgi veriliyor
+
+Önemli Kavramlar: health, maya, missing, about, got
+
+==================================================
+
+SEGMENT 2
+--------------------
+Ana Konu: social konusu
+Segment Tipi: bilgi paylaşımı
+Duygusal Ton: pozitif (5 pozitif, 1 negatif kelime)
+
+Anahtar Mesajlar:
+• Bu bölümde social hakkında bilgi veriliyor
+
+Önemli Kavramlar: one, time, people, like, about
+
+==================================================
+
+SEGMENT 3
+--------------------
+Ana Konu: social konusu
+Segment Tipi: bilgi paylaşımı
+Duygusal Ton: pozitif (5 pozitif, 0 negatif kelime)
+
+Anahtar Mesajlar:
+• Bu bölümde social hakkında bilgi veriliyor
+
+Önemli Kavramlar: people, each, like, five, close
+
+==================================================
+
+SEGMENT 4
+--------------------
+Ana Konu: social konusu
+Segment Tipi: bilgi paylaşımı
+Duygusal Ton: pozitif (3 pozitif, 0 negatif kelime)
+
+Anahtar Mesajlar:
+• Bu bölümde social hakkında bilgi veriliyor
+
+Önemli Kavramlar: right, one, hour, day, like
+
+==================================================
+
+SEGMENT 5
+--------------------
+Ana Konu: health konusu
+Segment Tipi: bilgi paylaşımı
+Duygusal Ton: pozitif (4 pozitif, 0 negatif kelime)
+
+Anahtar Mesajlar:
+• Bu bölümde health hakkında bilgi veriliyor
+
+Önemli Kavramlar: health, social, about, over, next
+
+==================================================
+
+SEGMENT 6
+--------------------
+Ana Konu: health konusu
+Segment Tipi: bilgi paylaşımı
+Duygusal Ton: nötr (0 pozitif, 0 negatif kelime)
+
+Anahtar Mesajlar:
+• Bu bölümde health hakkında bilgi veriliyor
+
+Önemli Kavramlar: social, health, because, beauty, nurturing
+
+==================================================
+

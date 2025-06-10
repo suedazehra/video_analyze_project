@@ -1,0 +1,40 @@
+ANAHTAR İÇGÖRÜLER VE DERINLEMESINE ANALİZ
+============================================================
+
+1. VİDEO UZUNLUK ANALİZİ
+------------------------------
+Tahmini Süre: 7.5 dakika
+Toplam Kelime: 1131
+Toplam Cümle: 85
+Video Kategorisi: orta
+İçerik Yoğunluk Skoru: 11.3
+
+2. İÇERİK YOĞUNLUK ANALİZİ
+------------------------------
+Benzersiz Kelime Oranı: 0.439
+Ortalama Cümle Uzunluğu: 13.3 kelime
+Karmaşıklık Seviyesi: orta
+Karmaşıklık Skoru: 5.85
+
+3. KONU İLERLEYİŞİ ANALİZİ
+------------------------------
+Segment 1: explanation (242 kelime)
+Segment 2: example (251 kelime)
+Segment 3: example (166 kelime)
+Segment 4: transition (233 kelime)
+Segment 5: transition (218 kelime)
+Segment 6: explanation (18 kelime)
+
+4. ANAHTAR TERMİNOLOJİ
+------------------------------
+Teknik Terimler: people, health, like, social, social health, time, healthy, relationships, just, maya
+Önemli İfadeler: social health, just like, mental health
+
+5. YAPISAL ANALİZ
+------------------------------
+Toplam Segment: 6
+Ortalama Segment Uzunluğu: 237.7
+İçerik Dengesi: dengesiz
+Bilgi Dağılımı: distributed
+Dominant Akış Paterni: stable
+
